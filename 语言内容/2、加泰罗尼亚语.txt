@@ -1,0 +1,28 @@
+爱来自中国山东日照 - Amor de Rizhao, Shandong, Xina
+存 入 - Ingressar
+存钱明细 - Detalls de l'estalvi
+存钱猪猪 - Porquet de l'estalvi
+第一个存钱罐 - Primera guardiola
+感谢您的鼓励 - Gràcies pel teu suport
+欢迎使用 - Benvingut
+距离目标还差 - Encara falta per assolir l'objectiu
+开发者网站：fangjunyu.com - Lloc web del desenvolupador: fangjunyu.com
+开启存钱猪猪 - Començar el porquet de l'estalvi
+目标金额 - Import objectiu
+您的支持是我最大的动力 - El teu suport és la meva major motivació
+您已支持过该应用 - Ja has donat suport a aquesta aplicació
+请输入存钱罐名称 - Introdueix el nom de la guardiola
+请输入存钱金额 - Introdueix l'import d'estalvi
+请输入取钱金额 - Introdueix l'import a retirar
+取 出 - Retirar
+取出 - Retirar
+删除当前存钱罐 - Eliminar la guardiola actual
+设置 - Configuració
+提前设定储蓄目标并逐渐积累财富 - Estableix un objectiu d'estalvi i acumula riquesa gradualment
+完 成 - Completat
+我的存钱罐 - La meva guardiola
+已经存入 - Ja ingressat
+元 - €
+支持一下免费开发（$1 USD） - Dona suport al desenvolupament gratuït (1 USD)
+祝您身体健康，万事如意 - Et desitjo bona salut i èxit en tot
+最终完成储蓄计划 - Completar el pla d'estalvi

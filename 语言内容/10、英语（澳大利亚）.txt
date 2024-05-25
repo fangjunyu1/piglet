@@ -1,0 +1,83 @@
+爱来自中国山东日照
+Love from Rizhao, Shandong, China
+
+存 入
+Deposit
+
+存钱明细
+Deposit Details
+
+存钱猪猪
+Piggy Bank Savings
+
+第一个存钱罐
+First Piggy Bank
+
+感谢您的鼓励
+Thank you for your encouragement
+
+欢迎使用
+Welcome
+
+距离目标还差
+Remaining to Target
+
+开发者网站：fangjunyu.com
+Developer Website: fangjunyu.com
+
+开启存钱猪猪
+Start Piggy Bank Savings
+
+目标金额
+Target Amount
+
+您的支持是我最大的动力
+Your support is my greatest motivation
+
+您已支持过该应用
+You have already supported this app
+
+请输入存钱罐名称
+Please enter the name of the piggy bank
+
+请输入存钱金额
+Please enter the deposit amount
+
+请输入取钱金额
+Please enter the withdrawal amount
+
+取 出
+Withdraw
+
+取出
+Withdraw
+
+删除当前存钱罐
+Delete current piggy bank
+
+设置
+Settings
+
+提前设定储蓄目标并逐渐积累财富
+Set savings goals in advance and gradually accumulate wealth
+
+完 成
+Complete
+
+我的存钱罐
+My Piggy Bank
+
+已经存入
+Already Deposited
+
+元
+$
+
+支持一下免费开发（$1 USD）
+Support free development ($1 USD)
+
+祝您身体健康，万事如意
+Wishing you good health and all the best
+
+最终完成储蓄计划
+Successfully complete the savings plan

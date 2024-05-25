@@ -1,0 +1,83 @@
+爱来自中国山东日照
+L'amour provient de Rizhao, dans la province de Shandong, en Chine.
+
+存 入
+Déposer
+
+存钱明细
+Détails du dépôt
+
+存钱猪猪
+Cochon tirelire
+
+第一个存钱罐
+Première tirelire
+
+感谢您的鼓励
+Merci pour votre encouragement
+
+欢迎使用
+Bienvenue
+
+距离目标还差
+Distance restante jusqu'à l'objectif
+
+开发者网站：fangjunyu.com
+Site web du développeur : fangjunyu.com
+
+开启存钱猪猪
+Activer la tirelire
+
+目标金额
+Montant cible
+
+您的支持是我最大的动力
+Votre soutien est ma plus grande motivation
+
+您已支持过该应用
+Vous avez déjà soutenu cette application
+
+请输入存钱罐名称
+Veuillez entrer le nom de la tirelire
+
+请输入存钱金额
+Veuillez entrer le montant à déposer
+
+请输入取钱金额
+Veuillez entrer le montant à retirer
+
+取 出
+Retirer
+
+取出
+Retirer
+
+删除当前存钱罐
+Supprimer la tirelire actuelle
+
+设置
+Paramètres
+
+提前设定储蓄目标并逐渐积累财富
+Définir à l'avance des objectifs d'épargne et accumuler progressivement de la richesse
+
+完 成
+Terminer
+
+我的存钱罐
+Ma tirelire
+
+已经存入
+Déjà déposé
+
+元
+$
+
+支持一下免费开发（$1 USD）
+Soutenir le développement gratuit ($1 USD)
+
+祝您身体健康，万事如意
+Je vous souhaite une bonne santé et tout le meilleur
+
+最终完成储蓄计划
+Finaliser le plan d'épargne

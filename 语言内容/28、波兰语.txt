@@ -1,0 +1,28 @@
+爱来自中国山东日照 - Miłość pochodzi z Rizhao, Shandong, Chiny
+存 入 - Wpłata
+存钱明细 - Szczegóły oszczędności
+存钱猪猪 - Skarbonka
+第一个存钱罐 - Pierwsza skarbonka
+感谢您的鼓励 - Dziękujemy za wsparcie
+欢迎使用 - Witamy w użyciu
+距离目标还差 - Brakuje do celu
+开发者网站：fangjunyu.com - Strona internetowa dewelopera: fangjunyu.com
+开启存钱猪猪 - Włącz skarbonkę
+目标金额 - Kwota docelowa
+您的支持是我最大的动力 - Państwa wsparcie jest moją największą motywacją
+您已支持过该应用 - Już wspieraliście tę aplikację
+请输入存钱罐名称 - Proszę wpisać nazwę skarbonki
+请输入存钱金额 - Proszę wpisać kwotę do oszczędzenia
+请输入取钱金额 - Wprowadź kwotę do wypłaty
+取 出 - Wypłata
+取出 - Wypłata
+删除当前存钱罐 - Usuń bieżącą skarbonkę
+设置 - Ustawienia
+提前设定储蓄目标并逐渐积累财富 - Ustaw wcześniej cel oszczędnościowy i stopniowo gromadź bogactwo
+完 成 - Zakończono
+我的存钱罐 - Moja skarbonka
+已经存入 - Już wpłacone
+元 - zł
+支持一下免费开发（$1 USD） - Wsparcie darmowego rozwoju ($1 USD)
+祝您身体健康，万事如意 - Życzę zdrowia i wszelkiego pomyślności
+最终完成储蓄计划 - Końcowe ukończenie planu oszczędnościowego

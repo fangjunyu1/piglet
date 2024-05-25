@@ -1,0 +1,306 @@
+{
+  "sourceLanguage" : "zh-Hans",
+  "strings" : {
+    "Hello, world!" : {
+
+    },
+    "元" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元"
+          }
+        }
+      }
+    },
+    "最终完成储蓄计划" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最终完成储蓄计划"
+          }
+        }
+      }
+    },
+    "删除当前存钱罐" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除当前存钱罐"
+          }
+        }
+      }
+    },
+    "取 出" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取 出"
+          }
+        }
+      }
+    },
+    "取出" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取出"
+          }
+        }
+      }
+    },
+    "存 入" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存 入"
+          }
+        }
+      }
+    },
+    "存钱明细" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存钱明细"
+          }
+        }
+      }
+    },
+    "存钱猪猪" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存钱猪猪"
+          }
+        }
+      }
+    },
+    "完 成" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完 成"
+          }
+        }
+      }
+    },
+    "已经存入" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已经存入"
+          }
+        }
+      }
+    },
+    "开发者网站：fangjunyu.com" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开发者网站：fangjunyu.com"
+          }
+        }
+      }
+    },
+    "开启存钱猪猪" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开启存钱猪猪"
+          }
+        }
+      }
+    },
+    "您已支持过该应用" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您已支持过该应用"
+          }
+        }
+      }
+    },
+    "您的支持是我最大的动力" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的支持是我最大的动力"
+          }
+        }
+      }
+    },
+    "感谢您的鼓励" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感谢您的鼓励"
+          }
+        }
+      }
+    },
+    "我的存钱罐" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我的存钱罐"
+          }
+        }
+      }
+    },
+    "提前设定储蓄目标并逐渐积累财富" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提前设定储蓄目标并逐渐积累财富"
+          }
+        }
+      }
+    },
+    "支持一下免费开发（$1 USD）" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持一下免费开发（$1 USD）"
+          }
+        }
+      }
+    },
+    "欢迎使用" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢迎使用"
+          }
+        }
+      }
+    },
+    "爱来自中国山东日照" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "爱来自中国山东日照"
+          }
+        }
+      }
+    },
+    "目标金额" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目标金额"
+          }
+        }
+      }
+    },
+    "祝您身体健康，万事如意" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "祝您身体健康，万事如意"
+          }
+        }
+      }
+    },
+    "第一个存钱罐" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第一个存钱罐"
+          }
+        }
+      }
+    },
+    "设置" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
+          }
+        }
+      }
+    },
+    "请输入存钱罐名称" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入存钱罐名称"
+          }
+        }
+      }
+    },
+    "请输入存钱金额" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入存钱金额"
+          }
+        }
+      }
+    },
+    "距离目标还差" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "距离目标还差"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,28 @@
+爱来自中国山东日照 | Aşk Rizhao, Şantung, Çin'den
+存 入 | Yatır
+存钱明细 | Para Yatırma Detayları
+存钱猪猪 | Tasarruf Domuzu
+第一个存钱罐 | İlk Tasarruf Kutusu
+感谢您的鼓励 | Desteğiniz için teşekkür ederim
+欢迎使用 | Hoş geldiniz
+距离目标还差 | Hedefe Kadar
+开发者网站：fangjunyu.com | Geliştirici Websitesi: fangjunyu.com
+开启存钱猪猪 | Tasarruf Domuzunu Aç
+目标金额 | Hedef Tutarı
+您的支持是我最大的动力 | Desteğiniz benim için en büyük motivasyon
+您已支持过该应用 | Bu uygulamayı zaten desteklediniz
+请输入存钱罐名称 | Lütfen bir tasarruf kutusu adı girin
+请输入存钱金额 | Lütfen yatırılacak miktarı girin
+请输入取钱金额 ｜ Lütfen çekilecek miktarı girin
+取 出 | Çıkar
+取出 | Çıkar
+删除当前存钱罐 | Geçerli tasarruf kutusunu sil
+设置 | Ayarlar
+提前设定储蓄目标并逐渐积累财富 | Tasarruf hedefinizi önceden belirleyin ve servetinizi kademeli olarak biriktirin
+完 成 | Tamamla
+我的存钱罐 | Benim Tasarruf Kutum
+已经存入 | Zaten Yatırıldı
+元 | ₺
+支持一下免费开发（$1 USD） | Ücretsiz geliştirmeyi destekleyin ($1 USD)
+祝您身体健康，万事如意 | Sağlıklı ve mutlu günler dilerim
+最终完成储蓄计划 | Sonunda tasarruf planını tamamla

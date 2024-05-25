@@ -1,0 +1,43 @@
+Chinese, Simplified - 简体中文：元
+Arabic - 阿拉伯语：阿拉伯国家使用的主要货币单位有多种，如沙特里亚尔 (SAR)、阿联酋迪拉姆 (AED) 等。
+沙特里亚尔：ريال
+阿联酋迪拉姆：درهم
+Catalan - 加泰罗尼亚语：€
+Chinese (Hong Kong) - 香港繁体中文：港元
+Chinese, Traditional - 繁体中文：元
+Croatian - 克罗地亚语：kn
+Czech - 捷克语：Kč
+Danish - 丹麦语：kr
+Dutch - 荷兰语：€
+English - 英语：各国货币符号，如$ (USD)、£ (GBP)、$ (AUD) 等。
+English (Australia) - 英语（澳大利亚）：$
+English (Canada) - 英语（加拿大）：$
+English (India) - 英语（印度）：₹
+English (United Kingdom) - 英语（英国）：£
+Finnish - 芬兰语：€
+French - 法语：€
+French (Canada) - 法语（加拿大）：$
+German - 德语：€
+Greek - 希腊语：€
+Hebrew - 希伯来语：₪
+Hindi - 印地语：₹
+Hungarian - 匈牙利语：Ft
+Indonesian - 印度尼西亚语：Rp
+Italian - 意大利语：€
+Japanese - 日语：¥
+Korean - 韩语：₩
+Malay - 马来语：RM
+Norwegian Bokmål - 挪威语（博克马尔语）：kr
+Polish - 波兰语：zł
+Portuguese (Brazil) - 葡萄牙语（巴西）：R$
+Portuguese (Portugal) - 葡萄牙语（葡萄牙）：€
+Romanian - 罗马尼亚语：lei
+Russian - 俄语：₽
+Slovak - 斯洛伐克语：€
+Spanish - 西班牙语：€
+Spanish (Latin America) - 西班牙语（拉丁美洲）：拉丁美洲各国货币符号，如$ (MXN)、$ (ARS) 等。
+Swedish - 瑞典语：kr
+Thai - 泰语：฿
+Turkish - 土耳其语：₺
+Ukrainian - 乌克兰语：₴
+Vietnamese - 越南语：₫

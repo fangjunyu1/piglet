@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Localizable.xcstrings" source-language="zh-Hans" target-language="pt-BR" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+    </header>
+    <body>
+      <trans-unit id="Hello, world!" xml:space="preserve">
+        <source>Hello, world!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="元" xml:space="preserve">
+        <source>元</source>
+        <target state="translated">R$</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="删除当前存钱罐" xml:space="preserve">
+        <source>删除当前存钱罐</source>
+        <target state="translated">Excluir o cofrinho atual</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="取 出" xml:space="preserve">
+        <source>取 出</source>
+        <target state="translated">Retirar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="取出" xml:space="preserve">
+        <source>取出</source>
+        <target state="translated">Retirar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="存 入" xml:space="preserve">
+        <source>存 入</source>
+        <target state="translated">Depositar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="存钱明细" xml:space="preserve">
+        <source>存钱明细</source>
+        <target state="translated">Detalhes da Poupança</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="存钱猪猪" xml:space="preserve">
+        <source>存钱猪猪</source>
+        <target state="translated">Porquinho Mealheiro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="完 成" xml:space="preserve">
+        <source>完 成</source>
+        <target state="translated">Concluído</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="已经存入" xml:space="preserve">
+        <source>已经存入</source>
+        <target state="translated">Já depositado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="开发者网站：fangjunyu.com" xml:space="preserve">
+        <source>开发者网站：fangjunyu.com</source>
+        <target state="translated">Site do Desenvolvedor: fangjunyu.com</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="开启存钱猪猪" xml:space="preserve">
+        <source>开启存钱猪猪</source>
+        <target state="translated">Ativar Porquinho Mealheiro</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="您已支持过该应用" xml:space="preserve">
+        <source>您已支持过该应用</source>
+        <target state="translated">Você já apoiou este aplicativo anteriormente</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="您的支持是我最大的动力" xml:space="preserve">
+        <source>您的支持是我最大的动力</source>
+        <target state="translated">Seu apoio é minha maior motivação</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="感谢您的鼓励" xml:space="preserve">
+        <source>感谢您的鼓励</source>
+        <target state="translated">Agradecemos pelo incentivo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="我的存钱罐" xml:space="preserve">
+        <source>我的存钱罐</source>
+        <target state="translated">Meu Cofrinho</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="提前设定储蓄目标并逐渐积累财富" xml:space="preserve">
+        <source>提前设定储蓄目标并逐渐积累财富</source>
+        <target state="translated">Defina a meta de poupança antecipadamente e acumule riqueza gradualmente</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="支持一下免费开发（$1 USD）" xml:space="preserve">
+        <source>支持一下免费开发（$1 USD）</source>
+        <target state="translated">Apoiar o desenvolvimento gratuito ($1 USD)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="最终完成储蓄计划" xml:space="preserve">
+        <source>最终完成储蓄计划</source>
+        <target state="translated">Concluir o plano de poupança final</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="欢迎使用" xml:space="preserve">
+        <source>欢迎使用</source>
+        <target state="translated">Bem-vindo ao uso</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="爱来自中国山东日照" xml:space="preserve">
+        <source>爱来自中国山东日照</source>
+        <target state="translated">O amor vem de Rizhao, Shandong, China</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="目标金额" xml:space="preserve">
+        <source>目标金额</source>
+        <target state="translated">Valor da Meta</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="祝您身体健康，万事如意" xml:space="preserve">
+        <source>祝您身体健康，万事如意</source>
+        <target state="translated">Desejo-lhe saúde e tudo de bom</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="第一个存钱罐" xml:space="preserve">
+        <source>第一个存钱罐</source>
+        <target state="translated">Primeira Cofrinho</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="设置" xml:space="preserve">
+        <source>设置</source>
+        <target state="translated">Configurações</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="请输入存钱罐名称" xml:space="preserve">
+        <source>请输入存钱罐名称</source>
+        <target state="translated">Por favor, insira o nome do cofrinho</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="请输入存钱金额" xml:space="preserve">
+        <source>请输入存钱金额</source>
+        <target state="translated">Por favor, insira o valor a ser depositado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="距离目标还差" xml:space="preserve">
+        <source>距离目标还差</source>
+        <target state="translated">Distância restante até a meta</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="piglet-InfoPlist.xcstrings" source-language="zh-Hans" target-language="pt-BR" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>piglet</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

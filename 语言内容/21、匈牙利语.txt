@@ -1,0 +1,28 @@
+爱来自中国山东日照 - A szerelem Shandong Rizhao városából, Kínából származik
+存 入 - Befizetés
+存钱明细 - Pénztárcanyitások
+存钱猪猪 - Takarékmalac
+第一个存钱罐 - Az első pénztárcanyitás
+感谢您的鼓励 - Köszönöm a bátorítást
+欢迎使用 - Üdvözlöm a használatot
+距离目标还差 - Hiányzik a célhoz képest
+开发者网站：fangjunyu.com - Fejlesztő weboldala: fangjunyu.com
+开启存钱猪猪 - Takarékmalac bekapcsolása
+目标金额 - Célösszeg
+您的支持是我最大的动力 - A támogatása az én legnagyobb motivációm
+您已支持过该应用 - Már támogatta ezt az alkalmazást
+请输入存钱罐名称 - Kérjük, adja meg a pénztárcanyitás nevét
+请输入存钱金额 - Kérjük, adja meg a befizetés összegét
+请输入取钱金额 - Kérjük, adja meg a felvenni kívánt összeget
+取 出 - Kivétel
+取出 - Kivétel
+删除当前存钱罐 - Jelenlegi pénztárcanyitás törlése
+设置 - Beállítások
+提前设定储蓄目标并逐渐积累财富 - Állítsa be előre a megtakarítási célt, és fokozatosan halmozza fel a vagyonát
+完 成 - Befejezés
+我的存钱罐 - Az én pénztárcanyitásom
+已经存入 - Már befizetve
+元 - Ft
+支持一下免费开发（$1 USD） - Támogassa a ingyenes fejlesztést ($1 USD)
+祝您身体健康，万事如意 - Egészségedre és minden jót kívánok Önnek
+最终完成储蓄计划 - A megtakarítási terv végleges teljesítése

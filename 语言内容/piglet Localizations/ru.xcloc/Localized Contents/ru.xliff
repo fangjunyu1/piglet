@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Localizable.xcstrings" source-language="zh-Hans" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+    </header>
+    <body>
+      <trans-unit id="Hello, world!" xml:space="preserve">
+        <source>Hello, world!</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="元" xml:space="preserve">
+        <source>元</source>
+        <target state="translated">₽</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="删除当前存钱罐" xml:space="preserve">
+        <source>删除当前存钱罐</source>
+        <target state="translated">Удалить текущую копилку</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="取 出" xml:space="preserve">
+        <source>取 出</source>
+        <target state="translated">Изъять</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="取出" xml:space="preserve">
+        <source>取出</source>
+        <target state="translated">Изъять</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="存 入" xml:space="preserve">
+        <source>存 入</source>
+        <target state="translated">Внести</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="存钱明细" xml:space="preserve">
+        <source>存钱明细</source>
+        <target state="translated">Детали вклада</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="存钱猪猪" xml:space="preserve">
+        <source>存钱猪猪</source>
+        <target state="translated">Свинка-копилка</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="完 成" xml:space="preserve">
+        <source>完 成</source>
+        <target state="translated">Завершить</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="已经存入" xml:space="preserve">
+        <source>已经存入</source>
+        <target state="translated">Уже внесено</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="开发者网站：fangjunyu.com" xml:space="preserve">
+        <source>开发者网站：fangjunyu.com</source>
+        <target state="translated">Веб-сайт разработчика: fangjunyu.com</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="开启存钱猪猪" xml:space="preserve">
+        <source>开启存钱猪猪</source>
+        <target state="translated">Начать свинку-копилку</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="您已支持过该应用" xml:space="preserve">
+        <source>您已支持过该应用</source>
+        <target state="translated">Вы уже поддержали это приложение</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="您的支持是我最大的动力" xml:space="preserve">
+        <source>您的支持是我最大的动力</source>
+        <target state="translated">Ваша поддержка — мой самый большой стимул</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="感谢您的鼓励" xml:space="preserve">
+        <source>感谢您的鼓励</source>
+        <target state="translated">Спасибо за вашу поддержку</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="我的存钱罐" xml:space="preserve">
+        <source>我的存钱罐</source>
+        <target state="translated">Моя копилка</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="提前设定储蓄目标并逐渐积累财富" xml:space="preserve">
+        <source>提前设定储蓄目标并逐渐积累财富</source>
+        <target state="translated">Заранее установите цель накопления и постепенно накапливайте богатство</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="支持一下免费开发（$1 USD）" xml:space="preserve">
+        <source>支持一下免费开发（$1 USD）</source>
+        <target state="translated">Поддержите бесплатную разработку ($1 USD)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="最终完成储蓄计划" xml:space="preserve">
+        <source>最终完成储蓄计划</source>
+        <target state="translated">Окончательно завершить план накопления</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="欢迎使用" xml:space="preserve">
+        <source>欢迎使用</source>
+        <target state="translated">Добро пожаловать</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="爱来自中国山东日照" xml:space="preserve">
+        <source>爱来自中国山东日照</source>
+        <target state="translated">Любовь из Жичжао, Шаньдун, Китай</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="目标金额" xml:space="preserve">
+        <source>目标金额</source>
+        <target state="translated">Целевая сумма</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="祝您身体健康，万事如意" xml:space="preserve">
+        <source>祝您身体健康，万事如意</source>
+        <target state="translated">Желаю вам здоровья и благополучия</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="第一个存钱罐" xml:space="preserve">
+        <source>第一个存钱罐</source>
+        <target state="translated">Первая копилка</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="设置" xml:space="preserve">
+        <source>设置</source>
+        <target state="translated">Настройки</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="请输入存钱罐名称" xml:space="preserve">
+        <source>请输入存钱罐名称</source>
+        <target state="translated">Пожалуйста, введите название копилки</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="请输入存钱金额" xml:space="preserve">
+        <source>请输入存钱金额</source>
+        <target state="translated">Пожалуйста, введите сумму вклада</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="距离目标还差" xml:space="preserve">
+        <source>距离目标还差</source>
+        <target state="translated">Осталось до цели</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="piglet-InfoPlist.xcstrings" source-language="zh-Hans" target-language="ru" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.4" build-num="15F31d"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>piglet</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

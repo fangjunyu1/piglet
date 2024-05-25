@@ -1,0 +1,28 @@
+爱来自中国山东日照 | Amor desde Rizhao, Shandong, China
+存入 | Depositar
+存钱明细 | Detalles del depósito
+存钱猪猪 | Alcancía
+第一个存钱罐 | Primera alcancía
+感谢您的鼓励 | Gracias por su apoyo
+欢迎使用 | Bienvenido
+距离目标还差 | Faltante para la meta
+开发者网站：fangjunyu.com | Sitio web del desarrollador: fangjunyu.com
+开启存钱猪猪 | Iniciar alcancía
+目标金额 | Monto objetivo
+您的支持是我最大的动力 | Su apoyo es mi mayor motivación
+您已支持过该应用 | Ya ha apoyado esta aplicación
+请输入存钱罐名称 | Por favor, ingrese el nombre de la alcancía
+请输入存钱金额 | Por favor, ingrese el monto a depositar
+请输入取钱金额 ｜ Introduzca el monto a retirar
+取出 | Retirar
+取出 | Retirar
+删除当前存钱罐 | Eliminar la alcancía actual
+设置 | Configuración
+提前设定储蓄目标并逐渐积累财富 | Establezca una meta de ahorro y acumule riqueza gradualmente
+完成 | Completar
+我的存钱罐 | Mi alcancía
+已经存入 | Ya depositado
+元 | $
+支持一下免费开发（$1 USD） | Apoye el desarrollo gratuito ($1 USD)
+祝您身体健康，万事如意 | Le deseo buena salud y todo lo mejor
+最终完成储蓄计划 | Finalmente completar el plan de ahorro

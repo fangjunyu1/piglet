@@ -1,0 +1,83 @@
+爱来自中国山东日照
+Rakkaus tulee Kiinasta, Shandongin maakunnasta, Rizhaon kaupungista
+
+存 入
+Talletus
+
+存钱明细
+Talletuksen tiedot
+
+存钱猪猪
+Säästöpossu
+
+第一个存钱罐
+Ensimmäinen säästöpossu
+
+感谢您的鼓励
+Kiitos tuestasi
+
+欢迎使用
+Tervetuloa käyttämään
+
+距离目标还差
+Matkaa tavoitteeseen jäljellä
+
+开发者网站：fangjunyu.com
+Kehittäjän verkkosivusto: fangjunyu.com
+
+开启存钱猪猪
+Aktivoi säästöpossu
+
+目标金额
+Tavoite summa
+
+您的支持是我最大的动力
+Tuki on suurin voimani
+
+您已支持过该应用
+Olet jo tukenut tätä sovellusta
+
+请输入存钱罐名称
+Syötä säästöpossun nimi
+
+请输入存钱金额
+Syötä talletettava määrä
+
+请输入取钱金额
+Syötä nostettava summa
+
+取 出
+Nosto
+
+取出
+Nosto
+
+删除当前存钱罐
+Poista nykyinen säästöpossu
+
+设置
+Asetukset
+
+提前设定储蓄目标并逐渐积累财富
+Aseta säästötavoitteet etukäteen ja kerää vaurautta vähitellen
+
+完 成
+Valmis
+
+我的存钱罐
+Minun säästöpossuni
+
+已经存入
+Jo tallennettu
+
+元
+€
+
+支持一下免费开发（$1 USD）
+Tukea ilmaiseen kehitykseen ($1 USD)
+
+祝您身体健康，万事如意
+Toivotan teille hyvää terveyttä ja kaikkea hyvää
+
+最终完成储蓄计划
+Viimeistele säästösuunnitelma
