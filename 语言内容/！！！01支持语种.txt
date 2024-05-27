@@ -1,43 +1,43 @@
-Chinese, Simplified - 简体中文：元
-Arabic - 阿拉伯语：阿拉伯国家使用的主要货币单位有多种，如沙特里亚尔 (SAR)、阿联酋迪拉姆 (AED) 等。
+1、Chinese, Simplified - 简体中文：元
+2、Arabic - 阿拉伯语：阿拉伯国家使用的主要货币单位有多种，如沙特里亚尔 (SAR)、阿联酋迪拉姆 (AED) 等。
 沙特里亚尔：ريال
 阿联酋迪拉姆：درهم
-Catalan - 加泰罗尼亚语：€
-Chinese (Hong Kong) - 香港繁体中文：港元
-Chinese, Traditional - 繁体中文：元
-Croatian - 克罗地亚语：kn
-Czech - 捷克语：Kč
-Danish - 丹麦语：kr
-Dutch - 荷兰语：€
-English - 英语：各国货币符号，如$ (USD)、£ (GBP)、$ (AUD) 等。
-English (Australia) - 英语（澳大利亚）：$
-English (Canada) - 英语（加拿大）：$
-English (India) - 英语（印度）：₹
-English (United Kingdom) - 英语（英国）：£
-Finnish - 芬兰语：€
-French - 法语：€
-French (Canada) - 法语（加拿大）：$
-German - 德语：€
-Greek - 希腊语：€
-Hebrew - 希伯来语：₪
-Hindi - 印地语：₹
-Hungarian - 匈牙利语：Ft
-Indonesian - 印度尼西亚语：Rp
-Italian - 意大利语：€
-Japanese - 日语：¥
-Korean - 韩语：₩
-Malay - 马来语：RM
-Norwegian Bokmål - 挪威语（博克马尔语）：kr
-Polish - 波兰语：zł
-Portuguese (Brazil) - 葡萄牙语（巴西）：R$
-Portuguese (Portugal) - 葡萄牙语（葡萄牙）：€
-Romanian - 罗马尼亚语：lei
-Russian - 俄语：₽
-Slovak - 斯洛伐克语：€
-Spanish - 西班牙语：€
-Spanish (Latin America) - 西班牙语（拉丁美洲）：拉丁美洲各国货币符号，如$ (MXN)、$ (ARS) 等。
-Swedish - 瑞典语：kr
-Thai - 泰语：฿
-Turkish - 土耳其语：₺
-Ukrainian - 乌克兰语：₴
-Vietnamese - 越南语：₫
+3、Catalan - 加泰罗尼亚语：€
+4、Chinese (Hong Kong) - 香港繁体中文：港元
+5、Chinese, Traditional - 繁体中文：元
+6、Croatian - 克罗地亚语：kn
+7、Czech - 捷克语：Kč
+8、Danish - 丹麦语：kr
+9、Dutch - 荷兰语：€
+10、English - 英语：各国货币符号，如$ (USD)、£ (GBP)、$ (AUD) 等。
+11、English (Australia) - 英语（澳大利亚）：$
+12、English (Canada) - 英语（加拿大）：$
+13、English (India) - 英语（印度）：₹
+14、English (United Kingdom) - 英语（英国）：£
+15、Finnish - 芬兰语：€
+16、French - 法语：€
+17、French (Canada) - 法语（加拿大）：$
+18、German - 德语：€
+19、Greek - 希腊语：€
+20、Hebrew - 希伯来语：₪
+21、Hindi - 印地语：₹
+22、Hungarian - 匈牙利语：Ft
+23、Indonesian - 印度尼西亚语：Rp
+24、Italian - 意大利语：€
+25、Japanese - 日语：¥
+26、Korean - 韩语：₩
+27、Malay - 马来语：RM
+28、Norwegian Bokmål - 挪威语（博克马尔语）：kr
+29、Polish - 波兰语：zł
+30、Portuguese (Brazil) - 葡萄牙语（巴西）：R$
+31、Portuguese (Portugal) - 葡萄牙语（葡萄牙）：€
+32、Romanian - 罗马尼亚语：lei
+33、Russian - 俄语：₽
+34、Slovak - 斯洛伐克语：€
+35、Spanish - 西班牙语：€
+36、Spanish (Latin America) - 西班牙语（拉丁美洲）：拉丁美洲各国货币符号，如$ (MXN)、$ (ARS) 等。
+37、Swedish - 瑞典语：kr
+38、Thai - 泰语：฿
+39、Turkish - 土耳其语：₺
+40、Ukrainian - 乌克兰语：₴
+41、Vietnamese - 越南语：₫
