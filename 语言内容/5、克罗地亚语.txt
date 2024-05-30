@@ -26,3 +26,4 @@
 支持一下免费开发（$1 USD） - Podržite besplatni razvoj ($1 USD)
 祝您身体健康，万事如意 - Želim vam dobro zdravlje i sreću u svemu
 最终完成储蓄计划 - Konačno završi plan štednje
+删除 - Izbrisati

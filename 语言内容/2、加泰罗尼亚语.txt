@@ -26,3 +26,4 @@
 支持一下免费开发（$1 USD） - Dona suport al desenvolupament gratuït (1 USD)
 祝您身体健康，万事如意 - Et desitjo bona salut i èxit en tot
 最终完成储蓄计划 - Completar el pla d'estalvi
+删除 - Eliminar
